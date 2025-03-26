@@ -39,7 +39,7 @@
 
 ## 🎯 Introduction
 
-This project **automates regulatory compliance** by dynamically **generating rules from policy documents** and **assessing customer risk** based on these rules. It extracts structured data from PDFs, uses **vector embeddings and reranking** for intelligent search, and assigns a **risk score (0-5)** based on compliance.
+This project **automates regulatory compliance** by dynamically **generating rules from policy documents** and **assessing customer risk** based on these rules. It extracts structured data from PDFs, uses **vector embeddings and reranking** for intelligent search, and assigns a **risk score (0-1)** based on compliance.
 
 Key features include:  
 ✅ **AI-driven rule generation** from regulatory documents  
