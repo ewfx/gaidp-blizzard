@@ -46,7 +46,7 @@ graph TD
 | Technology                                | Purpose                                 | Why We Chose It                                      |
 | ----------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
 | **LangChain & LangGraph**                 | AI workflow management                  | Enables structured RAG execution for rule extraction |
-| **Hugging Face Transformers**             | Pretrained embeddings & LLM fine-tuning | Improves regulatory text understanding               |
+| **Hugging Face Transformers**             | Pretrained embeddings & Embedding fine-tuning | Improves regulatory text understanding               |
 | **Ollama & OpenAI API**                   | LLM inference                           | Supports both local & cloud-based rule generation    |
 | **Pinecone**                              | Vector search database                  | Enables fast & accurate policy retrieval             |
 | **PyMuPDF & pdfplumber**                  | PDF text & table extraction             | Handles regulatory document parsing efficiently      |
@@ -137,7 +137,7 @@ final_results = sorted(zip(pinecone_results["matches"], final_scores), key=lambd
 
 <br/>
 
-### 🔹 **5. Generate Rules Using LLM Planning**
+### 🔹 **5. Generate Rules Using LLM Planning - AgentWrite ( Plan Agent And Write Agent) **
 
 🔹 Uses **GPT-4** to **structure extracted policy content**.  
 🔹 Generates **explicit regulatory rules** from retrieved text.
