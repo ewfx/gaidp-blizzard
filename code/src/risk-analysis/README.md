@@ -49,7 +49,7 @@ graph TD
 | **LangChain & LangGraph**                 | AI workflow & decision automation       | Enables structured execution for risk evaluation  |
 | **Hugging Face Transformers**             | Pretrained embeddings & LLM fine-tuning | Enhances retrieval accuracy                       |
 | **Ollama & OpenAI API**                   | LLM inference                           | Supports both local & cloud-based fraud detection |
-| **Pinecone & FAISS**                      | Vector search database                  | Enables fast retrieval of policy rules            |
+| **Pinecone**                              | Vector search database                  | Enables fast retrieval of policy rules            |
 | **PyMuPDF & pdfplumber**                  | PDF text extraction                     | Parses regulatory documents efficiently           |
 | **Isolation Forest**                      | Fraud detection model                   | Identifies anomalies in financial transactions    |
 | **Cross-Encoder (sentence-transformers)** | Query-document reranking                | Improves search accuracy                          |
