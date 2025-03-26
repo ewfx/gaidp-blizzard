@@ -8,7 +8,7 @@
 
 ## 📌 **Summary**
 
-This project **automates regulatory rule extraction** from policy documents. It integrates **retrieval-augmented generation (RAG)** with **semantic search, fine-tuned LLMs, and metadata filtering** to **generate rules dynamically**.
+This project **automates regulatory rule extraction** from policy documents. It integrates **retrieval-augmented generation (RAG)** with **semantic search, fine-tuned Vector Embeddings, and metadata filtering** to **generate rules dynamically**.
 
 💡 **Core Capabilities:**  
 🔹 **Extracts structured rules** from large PDF-based policy documents.  
@@ -137,7 +137,7 @@ final_results = sorted(zip(pinecone_results["matches"], final_scores), key=lambd
 
 <br/>
 
-### 🔹 **5. Generate Rules Using LLM Planning - AgentWrite ( Plan Agent And Write Agent) **
+### 🔹 **5. Generate Rules Using LLM Planning - AgentWrite ( Plan Agent And Write Agent)**
 
 🔹 Uses **GPT-4** to **structure extracted policy content**.  
 🔹 Generates **explicit regulatory rules** from retrieved text.
