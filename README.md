@@ -52,6 +52,12 @@ This solution helps businesses stay compliant **efficiently and proactively**! �
 
 <br/>
 
+## 💡 Workflow
+
+![Final Design](https://github.com/user-attachments/assets/664bb970-c42e-42bf-9171-1422bf368734)
+
+<br/>
+
 ## 🎥 Demo
 
 ### 🔗 Live Demo
