@@ -58,13 +58,27 @@ This solution helps businesses stay compliant **efficiently and proactively**! ğ
 
 #### Automated Rules Generation
 
-<iframe src="https://www.loom.com/embed/0ceee712990641ea96d622f0a6a4cc41" frameborder="0" width="640" height="360"></iframe>
+<div>
+  <a href="https://www.loom.com/share/0ceee712990641ea96d622f0a6a4cc41">
+    <p>Overview of AI-Agentic System for Rules Generation ğŸš€ - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/0ceee712990641ea96d622f0a6a4cc41">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ceee712990641ea96d622f0a6a4cc41-faaddd757ee8e7d7-full-play.gif">
+  </a>
+</div>
 
 <br/>
 
 #### Risk Analysis
 
-<iframe src="https://www.loom.com/embed/c55f361e76d14fe6b0b16aa3729fb831" frameborder="0" width="640" height="360"></iframe>
+<div>
+  <a href="https://www.loom.com/share/9534c0d049514a9394e442260527120f">
+    <p>Risk Analysis Coding Overview - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/9534c0d049514a9394e442260527120f">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9534c0d049514a9394e442260527120f-6cff63d122edd1aa-full-play.gif">
+  </a>
+</div>
 
 ---
 
@@ -72,13 +86,27 @@ This solution helps businesses stay compliant **efficiently and proactively**! ğ
 
 #### Automated Rules Generation
 
-<iframe src="https://www.loom.com/embed/1d6058ae17b84401b0bd14d77d402e79" frameborder="0" width="640" height="360"></iframe>
+<div>
+  <a href="https://www.loom.com/share/1d6058ae17b84401b0bd14d77d402e79">
+    <p>Regulation Policy Generator Demo  - 26 March 2025 - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/1d6058ae17b84401b0bd14d77d402e79">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1d6058ae17b84401b0bd14d77d402e79-cc4b84446a9e6bfa-full-play.gif">
+  </a>
+</div>
 
 <br/>
 
 #### Risk Analysis
 
-<iframe src="https://www.loom.com/embed/9534c0d049514a9394e442260527120f" frameborder="0" width="640" height="360"></iframe>
+<div>
+  <a href="https://www.loom.com/share/c55f361e76d14fe6b0b16aa3729fb831">
+    <p>AI Chatbot Transaction Scoring - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/c55f361e76d14fe6b0b16aa3729fb831">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c55f361e76d14fe6b0b16aa3729fb831-982e1d0306543548-full-play.gif">
+  </a>
+</div>
 
 <br/>
 
@@ -88,7 +116,18 @@ This solution helps businesses stay compliant **efficiently and proactively**! ğ
 
 ### ğŸ–¼ï¸ Screenshots
 
-![Screenshot 1](link-to-image)
+#### Automated Rules Generation
+
+![1](https://github.com/user-attachments/assets/28e3b1c5-ed56-4424-979c-391a640bcb40)
+![2](https://github.com/user-attachments/assets/ceaefa84-cce0-420f-91c4-b92f9ba19256)
+![3](https://github.com/user-attachments/assets/eb1126e8-7a85-452c-94eb-3a2ba6acc753)
+![4](https://github.com/user-attachments/assets/844fc0df-bd8a-4bd0-93f4-03161207693f)
+
+#### Risk Analysis
+![Screenshot_26-3-2025_181039_ce7141da9d3a616e2e gradio live](https://github.com/user-attachments/assets/a1461bf7-c82f-449e-be7d-d921933ce99d)
+![Screenshot_26-3-2025_181050_ce7141da9d3a616e2e gradio live](https://github.com/user-attachments/assets/918bee55-e6b3-43a0-bb40-9d47970b850d)
+![Screenshot_26-3-2025_18107_ce7141da9d3a616e2e gradio live](https://github.com/user-attachments/assets/a30725d0-93fa-44de-8eab-1f52a4252e72)
+
 
 <br/>
 
