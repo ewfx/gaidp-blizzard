@@ -256,6 +256,18 @@ By overcoming these challenges, we built a **robust, scalable solution** for **r
 
 <br/>
 
+## 🔥 What did we did better ?
+
+- ✅ Embeddings Accuracy Boost – Improved from 56% to 70%, enhancing retrieval quality and precision.
+- ✅ Cross-Encoder for Reranking – Optimized search relevance by reranking retrieved policy chunks for better compliance assessment.
+- ✅ Interactive Rule Generation with LLM – AI-assisted rule creation using interactive prompts, making regulatory compliance automation more efficient.
+- ✅ Custom Synthetic Dataset – Built a high-quality dataset for training, ensuring better generalization and domain-specific accuracy.
+- ✅ AI Agentic System – Implemented autonomous agents that dynamically process and analyze regulatory documents for compliance scoring.
+
+🔥 These innovations make our project stand out with a robust AI-driven approach for regulatory compliance! 🔥
+
+<br/>
+
 ## 🏃 How to Run
 
 Run on Google Colab Links provided or the `.ipynb` files attached to this project
