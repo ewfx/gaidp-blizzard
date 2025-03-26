@@ -1,5 +1,29 @@
-Replace this file with files that you would like to use for your demo. This may include
+## 🎥 Demo
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+### 🔗 Live Demo
+
+#### Automated Rules Generation
+
+<iframe src="https://www.loom.com/embed/0ceee712990641ea96d622f0a6a4cc41" frameborder="0" width="640" height="360"></iframe>
+
+<br/>
+
+#### Risk Analysis
+
+<iframe src="https://www.loom.com/embed/c55f361e76d14fe6b0b16aa3729fb831" frameborder="0" width="640" height="360"></iframe>
+
+---
+
+### 📹 Video Demo
+
+#### Automated Rules Generation
+
+<iframe src="https://www.loom.com/embed/1d6058ae17b84401b0bd14d77d402e79" frameborder="0" width="640" height="360"></iframe>
+
+<br/>
+
+#### Risk Analysis
+
+<iframe src="https://www.loom.com/embed/9534c0d049514a9394e442260527120f" frameborder="0" width="640" height="360"></iframe>
+
+<br/>
