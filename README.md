@@ -56,6 +56,8 @@ This solution helps businesses stay compliant **efficiently and proactively**! �
 
 ![Final Design](https://github.com/user-attachments/assets/664bb970-c42e-42bf-9171-1422bf368734)
 
+Link to the Workflow - https://miro.com/app/board/uXjVIKiL7LM=/?share_link_id=976605411697
+
 <br/>
 
 ## 🎥 Demo
@@ -163,6 +165,7 @@ Our project leverages cutting-edge **AI and automation** to dynamically generate
 ### **2️⃣ Intelligent Information Retrieval 🔍**
 
 - **HuggingFace Sentence Transformers** were used to generate **vector embeddings** for document chunks.
+- **Vector Embedding Fine Tuning** using MatryoshkaLoss, this helps the embedding to understand the model context.
 - **Pinecone** stored and indexed these embeddings for **fast similarity search** on policy-related queries.
 - A **Cross-Encoder (sentence-transformers)** was implemented for **reranking search results**, improving accuracy.
 
@@ -175,7 +178,7 @@ Our project leverages cutting-edge **AI and automation** to dynamically generate
 ### **4️⃣ Customer Risk Profiling & Analysis ⚠️**
 
 - **Isolation Forest (Anomaly Detection)** helped detect **outliers in customer profiles.**
-- **Risk Analysis Pipeline** assigned **risk scores (0-5)** based on policy compliance and external data.
+- **Risk Analysis Pipeline** assigned **risk scores (0-1)** based on policy compliance and external data.
 
 ### **5️⃣ External Data & Enhancements 🌍**
 
@@ -198,7 +201,7 @@ This approach **automates regulatory compliance**, **minimizes manual effort**, 
 
 **Challenge:** Regulatory documents contain **vast amounts of text**, making it hard to locate **specific, relevant** information.  
 **Solution:**  
-✅ **Vector embeddings** (Hugging Face `BAAI/bge-base-en-v1.5`) helped represent document chunks **semantically**.  
+✅ **Vector embeddings** (Hugging Face `hshashank06/final-regulatory-policy`) helped represent document chunks **semantically**.  
 ✅ **Pinecone vector database** enabled **efficient retrieval** of relevant content.  
 ✅ **Cross-Encoder reranking** further **refined accuracy**, ensuring we surfaced the **most relevant** policy text.  
 ✅ **Metadata filtering** improved query precision by allowing **structured retrieval based on document properties**.
@@ -246,7 +249,7 @@ This approach **automates regulatory compliance**, **minimizes manual effort**, 
 
 **Challenge:** Real-world regulatory data is often **limited or sensitive**, making **training and testing difficult**.  
 **Solution:**  
-💰 Spent **$2,000 on GPT-4** API calls to generate **high-quality synthetic training data**.  
+💰 Spent **Rs2,000 on GPT-4** API calls to generate **high-quality synthetic training data**.  
 🎭 Developed a **Synthetic Data Generator** (`Synthetic Data Generator.ipynb`), using:
 
 - **Embedding similarity** to create **realistic training data**.
@@ -258,7 +261,7 @@ By overcoming these challenges, we built a **robust, scalable solution** for **r
 
 ## 🔥 What did we did better ?
 
-- ✅ Embeddings Accuracy Boost – Improved from 56% to 70%, enhancing retrieval quality and precision.
+- ✅ Embeddings Accuracy Boost – Improved from 56% to 70%, enhancing retrieval quality and precision using MatryoshkaLoss.
 - ✅ Cross-Encoder for Reranking – Optimized search relevance by reranking retrieved policy chunks for better compliance assessment.
 - ✅ Interactive Rule Generation with LLM – AI-assisted rule creation using interactive prompts, making regulatory compliance automation more efficient.
 - ✅ Custom Synthetic Dataset – Built a high-quality dataset for training, ensuring better generalization and domain-specific accuracy.
